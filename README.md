@@ -22,9 +22,9 @@ Welcome to the Ultimate Python Resources Hub! 🎯 This curated collection bring
 
 🖥️ Looking for the available and best editors, IDEs, and extensions for Python development? Check out the **Python Editors & IDEs** section to find the perfect setup for your workflow! 🚀🐍 
 
-☁️ Looking for the best paid and free-tier hosting for your Python projects? Explore top cloud platforms, dedicated servers, and serverless options to deploy your applications efficiently! In the Hosting Python section 🚀 
+☁️ Looking for the best paid and free-tier hosting for your Python projects? Explore top cloud platforms, dedicated servers, and serverless options to deploy your applications efficiently! In the **Hosting Python** section 🚀 
 
-📚 Looking for the best Python books—free or paid—to supercharge your learning? Check out the Python Books Library section! You’ll also find books tailored to specialized domains in the Python for section. 🚀🐍
+📚 Looking for the best Python books—free or paid—to supercharge your learning? Check out the **Python Books Library** section! You’ll also find books tailored to specialized domains in the Python for section. 🚀🐍
 
 ## 🚀 Python for Beginners
 ## 🚀 Python New Updates
