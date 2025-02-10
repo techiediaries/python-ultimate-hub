@@ -22,12 +22,18 @@ Welcome to the Ultimate Python Resources Hub! 🎯 This curated collection bring
 
 🖥️ Looking for the available and best editors, IDEs, and extensions for Python development? Check out the **Python Editors & IDEs** section to find the perfect setup for your workflow! 🚀🐍 
 
+☁️ Looking for the best paid and free-tier hosting for your Python projects? Explore top cloud platforms, dedicated servers, and serverless options to deploy your applications efficiently! In the Hosting Python section 🚀 
+
+📚 Looking for the best Python books—free or paid—to supercharge your learning? Check out the Python Books Library section! You’ll also find books tailored to specialized domains in the Python for section. 🚀🐍
+
 ## 🚀 Python for Beginners
 ## 🚀 Python New Updates
 ## 🚀 Python Editors & IDEs
 ## 🚀 Python vs. Other Programming Languages
-## 🚀 Python for Web Development
+## 🚀 Hosting Python
+## 🚀 Python Books Library
 
+## 🚀 Python for Web Development
 Python is great for web development due to its simplicity, readability, and vast ecosystem of frameworks like Django and Flask. It enables rapid development, scalability, and integration with various databases and APIs, making it a top choice for developers building web applications.
 
 ## 🤖 Python for AI & Machine Learning
