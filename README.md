@@ -9,7 +9,7 @@ Welcome to the Ultimate Python Resources Hub! 🎯 This curated collection bring
 
 > ⚡ "Simplicity is the soul of efficiency, and Python embodies this beautifully." — Tim Peters
 
-> Check out [Cody Python](https://ahmedbouchefra.com/cody)
+> Check out [Cody Python](https://ahmedbouchefra.com/cody) or [Codiz Python](https://ahmedbouchefra.com/codiz)
 
 🚀 Looking for Python resources tailored to your needs? Whether you're diving into web development, AI, or automation, jump straight to the **Python for** section and find the best tools for your journey! 🔥🐍
 
